@@ -1,5 +1,5 @@
 name: 'Serverless Deploy with Python Requirements'
-description: 'This is a fork for dhollerbach repo. Javascript action that runs a Serverless deploy using the serverless-python-requirements plugin.'
+description: 'This is a fork for dhollerbach repo.'
 inputs:
   config_args:
     default: ''
